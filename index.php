@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <script src="work/work.js" data-redirect="https://verdant-sap-d76a85535b0b.herokuapp.com/"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Verdant Haven - Professional gardening care, bespoke landscaping, seasonal maintenance, and organic plant wellness. Transform your outdoor and indoor green spaces.">
   <meta name="theme-color" content="#1b4332">
